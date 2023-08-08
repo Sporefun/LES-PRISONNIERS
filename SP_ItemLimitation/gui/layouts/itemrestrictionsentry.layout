@@ -1,0 +1,9 @@
+TextWidgetClass rootFrame {
+ position 0 0
+ size 700 20
+ hexactpos 1
+ vexactpos 1
+ hexactsize 1
+ vexactsize 1
+ "size to text v" 1
+}

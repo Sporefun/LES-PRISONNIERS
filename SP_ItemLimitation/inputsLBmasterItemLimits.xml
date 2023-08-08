@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<modded_inputs>
+    <inputs>
+        <actions>
+            <input name="UAOpenLimitationsPanel" loc="Open Item Limitations Panel" />
+			<!--------------------->
+        </actions>
+    </inputs>
+    <preset>
+		<input name="UAOpenLimitationsPanel">
+            <btn name="kU"/>
+        </input>
+    </preset>
+</modded_inputs>
